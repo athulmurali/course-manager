@@ -10,7 +10,7 @@
 - Built in Angular 6+ - JS, Typescript and  
 - Styling : Bootstrap and CSS
 
-[Admin Web app](https://github.com/athulmurali/courseManager)
+[Admin Web app and Java server](https://github.com/athulmurali/courseManager)
 - Basic UI built with jQuery, JS, HTML and CSS in the repo
 - Backend code for course management  built in Java with SpringBoot 
 
