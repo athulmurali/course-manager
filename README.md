@@ -24,3 +24,5 @@
 
 	Note :
 	All the web urls  for the deployed repos can be found in the corresponding repos 
+	
+	All these repos are sample code and demo runs on heroku, the actual production code is private and deployed in AWS (Currently offline)
